@@ -2,4 +2,4 @@
 Curso de Desenvolvimento Web - Html, Css e JavaScript
 
 
-[Ver código](./src/index.js)
+[Sobre Sentença de Código](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/FUNDAMENTOS/_01_sentenca_de_codigo.js)
