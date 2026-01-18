@@ -9,7 +9,7 @@ console.log("Essa linha toda incluindo o ponto e virgula é uma sentença de có
  * Exemplo - Abaixo
  */
 {
-   console.log("Primeira istrução lida pelo computador.");  ''
+   console.log("Primeira istrução lida pelo computador.");  
    console.log("Segunda istrução lida pelo computador.");
    console.log("Terceira istrução lida pelo computador.");
 }
