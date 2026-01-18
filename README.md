@@ -11,3 +11,6 @@ Curso de Desenvolvimento Web - Html, Css e JavaScript
 <br>
 <br>
 [ 3° - Sobre Bloco de Código](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/FUNDAMENTOS/_03_bloco_de_codigo.js)
+<br>
+<br>
+[ 4° - Sobre Dados](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/FUNDAMENTOS/_04_sobre_dados.js)
