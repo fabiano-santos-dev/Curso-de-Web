@@ -15,13 +15,17 @@ console.log(7.3);
   Com identificação o valor passa a ter um significado
   como segue abaixo
  */
+var nome = "caneta";
 var quantidade = 10;
 var preco = 3.5;
 var imposto = 1.5; 
 var precoFinal = preco + imposto;
 
-console.log("Nome:","Caneta");
+console.log("Nome:",nome);
 console.log("Quantidade:",quantidade);
 console.log("Preço:",preco);
 console.log("Imposto:",imposto);
 console.log("Preço Final:",precoFinal);
+
+nome = "Caneta Azul";
+console.log(nome);
