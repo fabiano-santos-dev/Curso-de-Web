@@ -1,5 +1,5 @@
 # Curso-de-Web
-Curso de Desenvolvimento Web - Html, Css e JavaScript
+Treinamento de Desenvolvimento Web - Utilizando Html, Css e JavaScript
 <br>
 <br>
 
