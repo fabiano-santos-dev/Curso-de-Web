@@ -50,3 +50,6 @@ Curso de Desenvolvimento Web - Html, Css e JavaScript
 <br>
 <br>
 [ 6° - Sopbre Tamplate String ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_06_tamplateString.js)
+<br>
+<br>
+[ 7° - Sopbre tipo boolean ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_07_booleanos.js)
