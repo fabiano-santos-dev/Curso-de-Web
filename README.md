@@ -49,7 +49,10 @@ Treinamento de Desenvolvimento Web - Utilizando Html, Css e JavaScript
 [ 5° - Trabalhando com String ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_05_trabalhando_com_string.js)
 <br>
 <br>
-[ 6° - Sopbre Tamplate String ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_06_tamplateString.js)
+[ 6° - Sobre Tamplate String ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_06_tamplateString.js)
 <br>
 <br>
-[ 7° - Sopbre tipo boolean ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_07_booleanos.js)
+[ 7° - Sobre tipo boolean ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_07_booleanos.js)
+<br>
+<br>
+[ 8° - Sobre tipo Array ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_08_tipo_array.js)
