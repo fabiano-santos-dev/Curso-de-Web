@@ -1,10 +1,10 @@
-# Curso-de-Web
+# Entendendo javaScript
 Treinamento de Desenvolvimento Web - Utilizando Html, Css e JavaScript
 <br>
 <br>
 
 
-# Fundamentos
+# Inicio
 [ 1° - Sobre Sentença de Código](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_01_INICIANDO_PROGRAMACAO/_01_sentenca_de_codigo.js)
 <br>
 <br>
