@@ -59,3 +59,6 @@ Treinamento de Desenvolvimento Web - Utilizando Html, Css e JavaScript
 <br>
 <br>
 [ 9° - Sobre tipo Objeto ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_09_objeto.js)
+<br>
+<br>
+[ 10° - Sobre Null e Undefined ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_10_null_undefined.js)
