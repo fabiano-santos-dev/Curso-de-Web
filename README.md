@@ -77,3 +77,9 @@ Treinamento de Desenvolvimento Web - Utilizando Html, Css e JavaScript
 <br>
 <br>
 [ 15° - Usando var em loop ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_15_usando_var_em_loop.js)
+<br>
+<br>
+[ 16° - Conceito de Hosting ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_15_usando_var_em_loop.js)
+<br>
+<br>
+[ 17° - função versus Objeto ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_17_funcao_versus_objeto.js)
