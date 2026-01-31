@@ -92,3 +92,6 @@ Treinamento de Desenvolvimento Web - Utilizando Html, Css e JavaScript
 <br>
 <br>
 [ 20° - Operadores de atribuiçãqo ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_20_operadores_atribuicao.js)
+<br>
+<br>
+[ 21° - Operador Destructuring ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_21_Operador_Destructuring.js)
