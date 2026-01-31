@@ -86,3 +86,6 @@ Treinamento de Desenvolvimento Web - Utilizando Html, Css e JavaScript
 <br>
 <br>
 [ 18° - Conceito lexico par chave Valor ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_18_par_nome_valor.js)
+<br>
+<br>
+[ 19° - Sobre a notação Ponto ](https://github.com/fabiano-santos-dev/Curso-de-Web/blob/main/_02_FUNDAMENTOS_JAVASCRIPT/_19_notacao_ponto.js)
